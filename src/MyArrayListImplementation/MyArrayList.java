@@ -1,3 +1,5 @@
+package MyArrayListImplementation;
+
 public class MyArrayList<T> implements MyList<T> {
 	private int initialCapacity = 5;
 	private int size = 0;

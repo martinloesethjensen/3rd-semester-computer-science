@@ -1,3 +1,5 @@
+package MySetImplementation;
+
 public interface MySetInterface<T>
 {
 	/**

@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dfd1a3d7-5c3b-4d98-91ac-23f93d63d09f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/3rd-semester-computer-science.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CasinoCopenhagen/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CasinoCopenhagen/FileHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CasinoCopenhagen/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CasinoCopenhagen/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CasinoCopenhagen/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CasinoCopenhagen/Tournament.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CasinoCopenhagen/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyArrayListImplementation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyArrayListImplementation/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyArrayListImplementation/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MySetImplementation/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MySetImplementation/MySet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MySetImplementation/MySetInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MySetImplementation/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyArrayListImplementation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyArrayListImplementation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyArrayListImplementation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyArrayListImplementation/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyArrayListImplementation/MyArrayListImplementation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/3rd-semester-computer-science.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyArrayListImplementation/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyArrayListImplementation/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyArrayListImplementation/src/MyArrayList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyArrayListImplementation/src/MyList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySetImplementation/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySetImplementation/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySetImplementation/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySetImplementation/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySetImplementation/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySetImplementation/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySetImplementation/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySetImplementation/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySetImplementation/MySetImplementation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/3rd-semester-computer-science.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySetImplementation/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySetImplementation/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySetImplementation/src/MySet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySetImplementation/src/MySetInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySetImplementation/src/Node.java" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1212761510">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="14" />
+          <entry key="md" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="14" />
+          <entry key="Markdown" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="87" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="87" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MySetImplementation/MySet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="28" selection-start-column="28" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MySetImplementation/MySetInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="28" selection-start-column="28" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MySetImplementation/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/CasinoCopenhagen/Employee.java" />
+        <option value="$PROJECT_DIR$/src/CasinoCopenhagen/FileHandler.java" />
+        <option value="$PROJECT_DIR$/src/CasinoCopenhagen/Game.java" />
+        <option value="$PROJECT_DIR$/src/CasinoCopenhagen/Main.java" />
+        <option value="$PROJECT_DIR$/src/CasinoCopenhagen/Person.java" />
+        <option value="$PROJECT_DIR$/src/CasinoCopenhagen/Tournament.java" />
+        <option value="$PROJECT_DIR$/src/CasinoCopenhagen/User.java" />
+        <option value="$PROJECT_DIR$/src/MyArrayListImplementation/Main.java" />
+        <option value="$PROJECT_DIR$/src/MyArrayListImplementation/MyArrayList.java" />
+        <option value="$PROJECT_DIR$/src/MyArrayListImplementation/MyList.java" />
+        <option value="$PROJECT_DIR$/src/MySetImplementation/Main.java" />
+        <option value="$PROJECT_DIR$/src/MySetImplementation/MySet.java" />
+        <option value="$PROJECT_DIR$/src/MySetImplementation/MySetInterface.java" />
+        <option value="$PROJECT_DIR$/src/MySetImplementation/Node.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-25" />
+    <option name="y" value="185" />
+    <option name="width" value="1555" />
+    <option name="height" value="860" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="3rd-semester-computer-science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3rd-semester-computer-science" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3rd-semester-computer-science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3rd-semester-computer-science" type="462c0819:PsiDirectoryNode" />
+              <item name="exerciseSWC030918" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3rd-semester-computer-science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3rd-semester-computer-science" type="462c0819:PsiDirectoryNode" />
+              <item name="exerciseSWC030918" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3rd-semester-computer-science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3rd-semester-computer-science" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537434463545" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marti\Dropbox\KEA - Datamatiker\GitHub\3rd-semester-computer-science\src\MySetImplementation" />
+      <recent name="C:\Users\marti\Dropbox\KEA - Datamatiker\GitHub\3rd-semester-computer-science\src\MyArrayListImplementation" />
+      <recent name="C:\Users\marti\Dropbox\KEA - Datamatiker\GitHub\3rd-semester-computer-science\src\CasinoCopenhagen" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CasinoCopenhagen.Main" />
+      <module name="3rd-semester-computer-science" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="CasinoCopenhagen.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="3rd-semester-computer-science" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfd1a3d7-5c3b-4d98-91ac-23f93d63d09f" name="Default Changelist" comment="" />
+      <created>1537434300472</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1537434300472</updated>
+      <workItem from="1537434304965" duration="538000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="538000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="CipherTools" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32991204" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/FileHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/Tournament.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyArrayListImplementation/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyArrayListImplementation/MyArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyArrayListImplementation/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MyArrayListImplementation/MyList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MySetImplementation/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MySetImplementation/MySet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MySetImplementation/MySetInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="28" selection-start-column="28" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MySetImplementation/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="21" lean-forward="true" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
