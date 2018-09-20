@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfd1a3d7-5c3b-4d98-91ac-23f93d63d09f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Thread/LongCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exerciseSWC030918/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exerciseSWC030918/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exerciseSWC030918/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exerciseSWC030918/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exerciseSWC030918/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/exerciseSWC030918/exerciseSWC030918.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CasinoCopenhagen/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CasinoCopenhagen/Game.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CasinoCopenhagen/Tournament.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CasinoCopenhagen/Tournament.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,24 +25,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="21" />
+          <entry key="java" value="27" />
           <entry key="md" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="21" />
+          <entry key="JAVA" value="27" />
           <entry key="Markdown" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1057" />
+          <entry key="dummy" value="36" />
+          <entry key="java" value="1757" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1057" />
+          <entry key="JAVA" value="1757" />
+          <entry key="PLAIN_TEXT" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -59,26 +55,89 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Thread/Main.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="55" lean-forward="true" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+            <state relative-caret-position="119">
+              <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Thread/LongCounter.java">
+        <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/Tournament.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+            <state relative-caret-position="408">
+              <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
               <folding>
-                <element signature="e#106#107#0" expanded="true" />
-                <element signature="e#122#123#0" expanded="true" />
-                <element signature="e#217#218#0" expanded="true" />
-                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#815#816#0" expanded="true" />
+                <element signature="e#881#882#0" expanded="true" />
+                <element signature="e#918#919#0" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#389#390#0" expanded="true" />
+                <element signature="e#423#424#0" expanded="true" />
+                <element signature="e#447#448#0" expanded="true" />
+                <element signature="e#496#497#0" expanded="true" />
+                <element signature="e#531#532#0" expanded="true" />
+                <element signature="e#565#566#0" expanded="true" />
+                <element signature="e#589#590#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
+                <element signature="e#653#654#0" expanded="true" />
+                <element signature="e#708#709#0" expanded="true" />
+                <element signature="e#749#750#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/Game.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#504#505#0" expanded="true" />
+                <element signature="e#528#529#0" expanded="true" />
+                <element signature="e#581#582#0" expanded="true" />
+                <element signature="e#616#617#0" expanded="true" />
+                <element signature="e#654#655#0" expanded="true" />
+                <element signature="e#673#674#0" expanded="true" />
+                <element signature="e#721#722#0" expanded="true" />
+                <element signature="e#746#747#0" expanded="true" />
+                <element signature="e#786#787#0" expanded="true" />
+                <element signature="e#807#808#0" expanded="true" />
+                <element signature="e#859#860#0" expanded="true" />
+                <element signature="e#888#889#0" expanded="true" />
+                <element signature="e#928#929#0" expanded="true" />
+                <element signature="e#949#950#0" expanded="true" />
+                <element signature="e#1001#1002#0" expanded="true" />
+                <element signature="e#1030#1031#0" expanded="true" />
+                <element signature="e#1104#1105#0" expanded="true" />
+                <element signature="e#1138#1139#0" expanded="true" />
+                <element signature="e#1366#1367#0" expanded="true" />
+                <element signature="e#1400#1401#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -89,6 +148,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -100,10 +160,8 @@
       <list>
         <option value="$PROJECT_DIR$/src/CasinoCopenhagen/Employee.java" />
         <option value="$PROJECT_DIR$/src/CasinoCopenhagen/FileHandler.java" />
-        <option value="$PROJECT_DIR$/src/CasinoCopenhagen/Game.java" />
         <option value="$PROJECT_DIR$/src/CasinoCopenhagen/Main.java" />
         <option value="$PROJECT_DIR$/src/CasinoCopenhagen/Person.java" />
-        <option value="$PROJECT_DIR$/src/CasinoCopenhagen/Tournament.java" />
         <option value="$PROJECT_DIR$/src/CasinoCopenhagen/User.java" />
         <option value="$PROJECT_DIR$/src/MyArrayListImplementation/Main.java" />
         <option value="$PROJECT_DIR$/src/MyArrayListImplementation/MyArrayList.java" />
@@ -119,6 +177,10 @@
         <option value="$PROJECT_DIR$/src/Exercise03_09_2018/Teacher.java" />
         <option value="$PROJECT_DIR$/src/Thread/LongCounter.java" />
         <option value="$PROJECT_DIR$/src/Thread/Main.java" />
+        <option value="$PROJECT_DIR$/src/Thread/RunThreads.java" />
+        <option value="$PROJECT_DIR$/src/CasinoCopenhagen/Tournament.java" />
+        <option value="$PROJECT_DIR$/src/CasinoCopenhagen/GameType.java" />
+        <option value="$PROJECT_DIR$/src/CasinoCopenhagen/Game.java" />
       </list>
     </option>
   </component>
@@ -128,7 +190,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-25" />
     <option name="y" value="185" />
     <option name="width" value="1555" />
@@ -157,7 +219,7 @@
               <item name="3rd-semester-computer-science" type="b2602c69:ProjectViewProjectNode" />
               <item name="3rd-semester-computer-science" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoCopenhagen" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -170,7 +232,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537441237596" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537464766034" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -252,18 +314,18 @@
       <option name="presentableId" value="Default" />
       <updated>1537434300472</updated>
       <workItem from="1537434304965" duration="6749000" />
-      <workItem from="1537460292459" duration="810000" />
+      <workItem from="1537460292459" duration="4158000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7559000" />
+    <option name="totallyTimeSpent" value="10907000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2521322" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2521322" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -277,7 +339,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32991204" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32925472" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" />
       <window_info anchor="bottom" id="CipherTools" order="10" />
@@ -303,21 +365,7 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/Employee.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/FileHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/Game.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="25" selection-start-column="25" selection-end-column="25" />
@@ -331,28 +379,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/Tournament.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyArrayListImplementation/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/MyArrayListImplementation/RunMyArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret lean-forward="true" selection-end-column="34" />
@@ -384,7 +411,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MySetImplementation/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/MySetImplementation/RunMySet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="19" lean-forward="true" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
@@ -460,22 +487,106 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/Thread/RunThreads.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="55" lean-forward="true" selection-start-line="19" selection-start-column="55" selection-end-line="19" selection-end-column="55" />
+        <state relative-caret-position="612">
+          <caret line="63" column="53" lean-forward="true" selection-start-line="63" selection-start-column="53" selection-end-line="63" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Thread/LongCounter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
+        <state relative-caret-position="153">
           <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
           <folding>
             <element signature="e#106#107#0" expanded="true" />
             <element signature="e#122#123#0" expanded="true" />
             <element signature="e#217#218#0" expanded="true" />
             <element signature="e#238#239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/GameType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/Tournament.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="29" column="49" selection-start-line="29" selection-start-column="49" selection-end-line="29" selection-end-column="49" />
+          <folding>
+            <element signature="e#815#816#0" expanded="true" />
+            <element signature="e#881#882#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#389#390#0" expanded="true" />
+            <element signature="e#423#424#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#496#497#0" expanded="true" />
+            <element signature="e#531#532#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#653#654#0" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#749#750#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="2" selection-start-line="21" selection-start-column="2" selection-end-line="21" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+            <element signature="e#528#529#0" expanded="true" />
+            <element signature="e#581#582#0" expanded="true" />
+            <element signature="e#616#617#0" expanded="true" />
+            <element signature="e#654#655#0" expanded="true" />
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
+            <element signature="e#859#860#0" expanded="true" />
+            <element signature="e#888#889#0" expanded="true" />
+            <element signature="e#928#929#0" expanded="true" />
+            <element signature="e#949#950#0" expanded="true" />
+            <element signature="e#1001#1002#0" expanded="true" />
+            <element signature="e#1030#1031#0" expanded="true" />
+            <element signature="e#1104#1105#0" expanded="true" />
+            <element signature="e#1138#1139#0" expanded="true" />
+            <element signature="e#1366#1367#0" expanded="true" />
+            <element signature="e#1400#1401#0" expanded="true" />
           </folding>
         </state>
       </provider>
