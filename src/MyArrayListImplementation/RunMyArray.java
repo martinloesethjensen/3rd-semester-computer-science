@@ -1,6 +1,6 @@
 package MyArrayListImplementation;
 
-public class Main
+public class RunMyArray
 {
 	public static void main(String[] args)
 	{

@@ -1,6 +1,6 @@
 package MySetImplementation;
 
-public class Main {
+public class RunMySet {
 
     public static void main(String[] args) {
       MySet mySet = new MySet();
