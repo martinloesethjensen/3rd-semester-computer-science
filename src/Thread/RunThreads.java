@@ -5,7 +5,7 @@ public class RunThreads {
 
 		long max = 10_000_000L;
 		final LongCounter counter = new LongCounter();
-		int noOfThreads = 10;
+		int noOfThreads = 8;
 
 		// Getting the time before threading
 		long start = System.currentTimeMillis();
@@ -17,12 +17,12 @@ public class RunThreads {
 		Multi threading to perform faster calculation of prime numbers.
 		Create a new Thread that searches a scope of numbers and start the Thread.
 		 */
-		for (int i = 0; i < threads.length; i++) {
+		for (int i = 0; i < noOfThreads; i++) {
 			final long startNumber = i * (max / noOfThreads);
 			final long lastNumber = (i + 1) * (max / noOfThreads);
 
 			threads[i] = new Thread(() -> {
-				for (long number = startNumber; number <= lastNumber; number++) {
+				for (long number = 1 + startNumber; number <= lastNumber; number++) {
 					if (isPrime(number)) {
 						counter.increment();
 					}
@@ -31,6 +31,10 @@ public class RunThreads {
 
 			threads[i].start();
 		}
+
+//		for (Thread thread: threads) {
+//			thread.start();
+//		}
 
 		// Join the threads
 		try {

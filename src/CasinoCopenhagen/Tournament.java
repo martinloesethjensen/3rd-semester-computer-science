@@ -3,6 +3,7 @@ package CasinoCopenhagen;
 import java.util.ArrayList;
 
 public class Tournament {
+	private int tournamentId = 0;
 	private String tournamentName;
 	private double prizeToWin;
 	private final double MIN_AMOUNT = 0.1;
@@ -16,6 +17,7 @@ public class Tournament {
 		this.tournamentName = tournamentName;
 		this.prizeToWin = prizeToWin;
 		this.amountToEnter = amountToEnter;
+		this.tournamentId++;
 	}
 
 	@Override
@@ -25,6 +27,14 @@ public class Tournament {
 			", prizeToWin=" + prizeToWin +
 			", amountToEnter=" + amountToEnter +
 			'}';
+	}
+
+	public int getTournamentId() {
+		return tournamentId;
+	}
+
+	public void setTournamentId(int tournamentId) {
+		this.tournamentId = tournamentId;
 	}
 
 	public ArrayList<Tournament> getTournaments() {

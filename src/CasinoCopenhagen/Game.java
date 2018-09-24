@@ -10,24 +10,30 @@ public class Game {
 	private ArrayList<User> players = new ArrayList<>();
 	private ArrayList<User> winners = new ArrayList<>();
 
-	private HashMap<Tournament, ArrayList<User>> playersOfTournaments = new HashMap<>();
-	private HashMap<Tournament, ArrayList<User>> winnersOfTournaments = new HashMap<>();
+	//cannot contain dublicate keys with hashmap... //id?
+	private HashMap<Integer, ArrayList<User>> playersOfTournaments = new HashMap<>();
+	private HashMap<Integer, ArrayList<User>> winnersOfTournaments = new HashMap<>();
 
 	public Game() {}
 
-	public Game(Tournament tournament, ArrayList<Game> games, ArrayList<User> players, ArrayList<User> winners,
-	            HashMap<Tournament, ArrayList<User>> playersOfTournaments,
-	            HashMap<Tournament, ArrayList<User>> winnersOfTournaments)
-	{
+	public Game(Tournament tournament) {
 		this.tournament = tournament;
-		this.games = games;
-		this.players = players;
-		this.winners = winners;
-		this.playersOfTournaments = playersOfTournaments;
-		this.winnersOfTournaments = winnersOfTournaments;
 	}
 
+	//add another constructor that takes in GameType
 
+
+	@Override
+	public String toString() {
+		return "Game{" +
+			"tournament=" + tournament +
+			", games=" + games +
+			", players=" + players +
+			", winners=" + winners +
+			", playersOfTournaments=" + playersOfTournaments +
+			", winnersOfTournaments=" + winnersOfTournaments +
+			'}';
+	}
 
 	public Tournament getTournament() {
 		return tournament;
@@ -61,19 +67,19 @@ public class Game {
 		this.winners = winners;
 	}
 
-	public HashMap<Tournament, ArrayList<User>> getPlayersOfTournaments() {
+	public HashMap<Integer, ArrayList<User>> getPlayersOfTournaments() {
 		return playersOfTournaments;
 	}
 
-	public void setPlayersOfTournaments(HashMap<Tournament, ArrayList<User>> playersOfTournaments) {
+	public void setPlayersOfTournaments(HashMap<Integer, ArrayList<User>> playersOfTournaments) {
 		this.playersOfTournaments = playersOfTournaments;
 	}
 
-	public HashMap<Tournament, ArrayList<User>> getWinnersOfTournaments() {
+	public HashMap<Integer, ArrayList<User>> getWinnersOfTournaments() {
 		return winnersOfTournaments;
 	}
 
-	public void setWinnersOfTournaments(HashMap<Tournament, ArrayList<User>> winnersOfTournaments) {
+	public void setWinnersOfTournaments(HashMap<Integer, ArrayList<User>> winnersOfTournaments) {
 		this.winnersOfTournaments = winnersOfTournaments;
 	}
 }
