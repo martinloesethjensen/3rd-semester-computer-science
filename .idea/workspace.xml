@@ -6,30 +6,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfd1a3d7-5c3b-4d98-91ac-23f93d63d09f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/CasinoCopenhagen/FileHandlers/EmployeeFileHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CasinoCopenhagen/FileHandlers/FileHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CasinoCopenhagen/FileHandlers/UserFileHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CasinoCopenhagen/GameType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CasinoCopenhagen/Session.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CasinoCopenhagen/TextFiles/employees.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CasinoCopenhagen/TextFiles/games.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CasinoCopenhagen/TextFiles/login.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CasinoCopenhagen/TextFiles/tournaments.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CasinoCopenhagen/TextFiles/users.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TCP_Test/TCP_Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TCP_Test/TCP_Server.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TCP_Test/UDP_0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TCP_Test/UDP_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CasinoCopenhagen/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CasinoCopenhagen/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CasinoCopenhagen/FileHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CasinoCopenhagen/FileHandlers/SessionFileHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CasinoCopenhagen/Game.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CasinoCopenhagen/Game.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CasinoCopenhagen/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CasinoCopenhagen/RunCasino.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CasinoCopenhagen/Person.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CasinoCopenhagen/Tournament.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CasinoCopenhagen/Tournament.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CasinoCopenhagen/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CasinoCopenhagen/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Thread/RunThreads.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Thread/RunThreads.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UDP_Test/UDP_0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UDP_Test/UDP_0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/UDP_Test/UDP_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UDP_Test/UDP_1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,18 +21,21 @@
     <session id="1212761510">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.open.time.12" value="1" />
+          <entry key="project.closed" value="13" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.open.time.9" value="2" />
+          <entry key="project.opened" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="51" />
+          <entry key="java" value="70" />
           <entry key="login" value="1" />
           <entry key="md" value="3" />
           <entry key="txt" value="6" />
@@ -61,7 +43,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="51" />
+          <entry key="JAVA" value="70" />
           <entry key="Markdown" value="3" />
           <entry key="PLAIN_TEXT" value="7" />
         </counts>
@@ -69,13 +51,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="52" />
-          <entry key="java" value="6110" />
+          <entry key="java" value="6293" />
           <entry key="txt" value="88" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6110" />
+          <entry key="JAVA" value="6293" />
           <entry key="PLAIN_TEXT" value="140" />
         </counts>
       </usages-collector>
@@ -90,8 +72,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TCP_Test/TCP_Server.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            <state relative-caret-position="300">
+              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UDP_Test/UDP_0.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -100,13 +94,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/TCP_Test/TCP_Client.java">
+        <entry file="file://$PROJECT_DIR$/src/UDP_Test/UDP_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="415">
-              <caret line="30" column="53" lean-forward="true" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
+            <state relative-caret-position="207">
+              <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TCP_Test/TCP_Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Thread/RunThreads.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -155,15 +170,17 @@
         <option value="$PROJECT_DIR$/src/CasinoCopenhagen/Employee.java" />
         <option value="$PROJECT_DIR$/src/CasinoCopenhagen/Person.java" />
         <option value="$PROJECT_DIR$/src/CasinoCopenhagen/User.java" />
-        <option value="$PROJECT_DIR$/src/CasinoCopenhagen/RunCasino.java" />
         <option value="$PROJECT_DIR$/src/CasinoCopenhagen/TextFiles/users.txt" />
         <option value="$PROJECT_DIR$/src/CasinoCopenhagen/FileHandlers/UserFileHandler.java" />
         <option value="$PROJECT_DIR$/src/Thread/RunThreads.java" />
         <option value="$PROJECT_DIR$/src/maam.java" />
         <option value="$PROJECT_DIR$/src/TCP_Test/UDP_1.java" />
         <option value="$PROJECT_DIR$/src/TCP_Test/UDP_0.java" />
-        <option value="$PROJECT_DIR$/src/TCP_Test/TCP_Client.java" />
         <option value="$PROJECT_DIR$/src/TCP_Test/TCP_Server.java" />
+        <option value="$PROJECT_DIR$/src/TCP_Test/TCP_Client.java" />
+        <option value="$PROJECT_DIR$/src/CasinoCopenhagen/RunCasino.java" />
+        <option value="$PROJECT_DIR$/src/UDP_Test/UDP_0.java" />
+        <option value="$PROJECT_DIR$/src/UDP_Test/UDP_1.java" />
       </list>
     </option>
   </component>
@@ -185,8 +202,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,6 +216,30 @@
               <item name="3rd-semester-computer-science" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="3rd-semester-computer-science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3rd-semester-computer-science" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="CasinoCopenhagen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3rd-semester-computer-science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3rd-semester-computer-science" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="TCP_Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3rd-semester-computer-science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3rd-semester-computer-science" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Thread" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3rd-semester-computer-science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3rd-semester-computer-science" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="UDP_Test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -208,7 +249,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537793847535" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538397303554" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -232,7 +273,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UDP_1">
+  <component name="RunManager" selected="Application.UDP_0">
     <configuration name="TCP_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TCP_Test.TCP_Client" />
       <module name="3rd-semester-computer-science" />
@@ -301,8 +342,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UDP_1" />
         <item itemvalue="Application.UDP_0" />
+        <item itemvalue="Application.UDP_1" />
         <item itemvalue="Application.TCP_Client" />
         <item itemvalue="Application.TCP_Server" />
         <item itemvalue="Application.maam" />
@@ -324,18 +365,26 @@
       <workItem from="1537541394407" duration="5940000" />
       <workItem from="1537640523109" duration="4203000" />
       <workItem from="1537689946177" duration="3672000" />
-      <workItem from="1537771753472" duration="12373000" />
+      <workItem from="1537771753472" duration="12717000" />
+      <workItem from="1537866832073" duration="735000" />
+      <workItem from="1537895166258" duration="106000" />
+      <workItem from="1538031819393" duration="5471000" />
+      <workItem from="1538116677482" duration="4265000" />
+      <workItem from="1538217010623" duration="4495000" />
+      <workItem from="1538301705463" duration="2125000" />
+      <workItem from="1538378018567" duration="821000" />
+      <workItem from="1538395354810" duration="1119000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38086000" />
+    <option name="totallyTimeSpent" value="57567000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2637584" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29597315" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -365,7 +414,7 @@
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="10" side_tool="true" weight="0.32995737" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="10" side_tool="true" weight="0.3295302" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -507,11 +556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="681">
           <caret line="81" column="53" selection-start-line="81" selection-start-column="53" selection-end-line="81" selection-end-column="53" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-            <element signature="e#559#560#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -534,11 +578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="78" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="78" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#739#740#0" expanded="true" />
-            <element signature="e#768#769#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -550,20 +589,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/Scanner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="1477" selection-start-line="1477" selection-end-line="1477" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/FileHandlers/SessionFileHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="952">
           <caret line="65" column="19" selection-start-line="65" selection-start-column="19" selection-end-line="65" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -571,10 +600,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
-          <folding>
-            <element signature="e#827#828#0" expanded="true" />
-            <element signature="e#851#852#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -606,23 +631,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/RunCasino.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-391">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/FileHandlers/UserFileHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
           <caret line="53" column="69" selection-start-line="53" selection-start-column="69" selection-end-line="53" selection-end-column="69" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -647,37 +659,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/maam.java">
+    <entry file="file://$PROJECT_DIR$/src/maam.java" />
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/lang/System.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        <state relative-caret-position="103">
+          <caret line="138" column="36" selection-start-line="138" selection-start-column="36" selection-end-line="138" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/io/PrintStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="948" column="18" selection-start-line="948" selection-start-column="18" selection-end-line="948" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CasinoCopenhagen/RunCasino.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="47" column="39" lean-forward="true" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-10.0.2/lib/src.zip!/java.base/java/util/Scanner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="1644" column="43" selection-start-line="1644" selection-start-column="43" selection-end-line="1644" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Thread/RunThreads.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        <state relative-caret-position="425">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TCP_Test/UDP_1.java">
+    <entry file="file://$PROJECT_DIR$/src/TCP_Test/TCP_Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5">
-          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TCP_Test/UDP_0.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-104">
-          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        <state relative-caret-position="391">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -686,18 +710,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TCP_Test/TCP_Server.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        <state relative-caret-position="300">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TCP_Test/TCP_Client.java">
+    <entry file="file://$PROJECT_DIR$/src/UDP_Test/UDP_0.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="415">
-          <caret line="30" column="53" lean-forward="true" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
+        <state relative-caret-position="153">
+          <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UDP_Test/UDP_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
