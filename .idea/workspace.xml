@@ -6,9 +6,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dfd1a3d7-5c3b-4d98-91ac-23f93d63d09f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MVC_DAT17C/RunMe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MVC_DAT17C/controller/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MVC_DAT17C/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MVC_DAT17C/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MVC_DAT17C/model/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MVC_DAT17C/model/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MVC_DAT17C/view/PersonView.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UDP_Test/UDP_0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UDP_Test/UDP_0.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UDP_Test/UDP_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UDP_Test/UDP_1.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,21 +26,23 @@
     <session id="1212761510">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="13" />
-          <entry key="project.open.time.1" value="4" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="5" />
+          <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.12" value="2" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="14" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="70" />
+          <entry key="java" value="87" />
           <entry key="login" value="1" />
           <entry key="md" value="3" />
           <entry key="txt" value="6" />
@@ -43,7 +50,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="70" />
+          <entry key="JAVA" value="87" />
           <entry key="Markdown" value="3" />
           <entry key="PLAIN_TEXT" value="7" />
         </counts>
@@ -51,13 +58,13 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="52" />
-          <entry key="java" value="6293" />
+          <entry key="java" value="6604" />
           <entry key="txt" value="88" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6293" />
+          <entry key="JAVA" value="6604" />
           <entry key="PLAIN_TEXT" value="140" />
         </counts>
       </usages-collector>
@@ -70,22 +77,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TCP_Test/TCP_Server.java">
+        <entry file="file://$PROJECT_DIR$/src/MVC_DAT17C/RunMe.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="-41">
+              <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/UDP_Test/UDP_0.java">
+        <entry file="file://$PROJECT_DIR$/src/MVC_DAT17C/controller/PersonController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+            <state relative-caret-position="204">
+              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,10 +98,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/UDP_Test/UDP_1.java">
+        <entry file="file://$PROJECT_DIR$/src/MVC_DAT17C/view/PersonView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+            <state relative-caret-position="163">
+              <caret line="23" column="77" selection-start-line="23" selection-start-column="77" selection-end-line="23" selection-end-column="77" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -106,22 +110,36 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TCP_Test/TCP_Client.java">
+        <entry file="file://$PROJECT_DIR$/src/MVC_DAT17C/model/Person.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="46" />
+            <state relative-caret-position="306">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MVC_DAT17C/model/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#245#246#0" expanded="true" />
+                <element signature="e#294#295#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Thread/RunThreads.java">
+        <entry file="file://$PROJECT_DIR$/src/MVC_DAT17C/model/Teacher.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+            <state relative-caret-position="187">
+              <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+              <folding>
+                <element signature="e#187#188#0" expanded="true" />
+                <element signature="e#237#238#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -179,8 +197,14 @@
         <option value="$PROJECT_DIR$/src/TCP_Test/TCP_Server.java" />
         <option value="$PROJECT_DIR$/src/TCP_Test/TCP_Client.java" />
         <option value="$PROJECT_DIR$/src/CasinoCopenhagen/RunCasino.java" />
-        <option value="$PROJECT_DIR$/src/UDP_Test/UDP_0.java" />
         <option value="$PROJECT_DIR$/src/UDP_Test/UDP_1.java" />
+        <option value="$PROJECT_DIR$/src/UDP_Test/UDP_0.java" />
+        <option value="$PROJECT_DIR$/src/MVC_DAT17C/model/Person.java" />
+        <option value="$PROJECT_DIR$/src/MVC_DAT17C/model/Student.java" />
+        <option value="$PROJECT_DIR$/src/MVC_DAT17C/model/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/MVC_DAT17C/RunMe.java" />
+        <option value="$PROJECT_DIR$/src/MVC_DAT17C/controller/PersonController.java" />
+        <option value="$PROJECT_DIR$/src/MVC_DAT17C/view/PersonView.java" />
       </list>
     </option>
   </component>
@@ -202,8 +226,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,7 +242,34 @@
               <item name="3rd-semester-computer-science" type="b2602c69:ProjectViewProjectNode" />
               <item name="3rd-semester-computer-science" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="CasinoCopenhagen" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise03_09_2018" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3rd-semester-computer-science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3rd-semester-computer-science" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MVC_DAT17C" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3rd-semester-computer-science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3rd-semester-computer-science" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MVC_DAT17C" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3rd-semester-computer-science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3rd-semester-computer-science" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MVC_DAT17C" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="3rd-semester-computer-science" type="b2602c69:ProjectViewProjectNode" />
+              <item name="3rd-semester-computer-science" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MVC_DAT17C" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="3rd-semester-computer-science" type="b2602c69:ProjectViewProjectNode" />
@@ -228,37 +277,27 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="TCP_Test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="3rd-semester-computer-science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="3rd-semester-computer-science" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Thread" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="3rd-semester-computer-science" type="b2602c69:ProjectViewProjectNode" />
-              <item name="3rd-semester-computer-science" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="UDP_Test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538397303554" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540199468354" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marti\Dropbox\KEA - Datamatiker\GitHub\3rd-semester-computer-science\src\MVC_DAT17C" />
       <recent name="C:\Users\marti\Dropbox\KEA - Datamatiker\GitHub\3rd-semester-computer-science\src\CasinoCopenhagen\Files" />
       <recent name="C:\Users\marti\Dropbox\KEA - Datamatiker\GitHub\3rd-semester-computer-science\src\Exercise03_09_2018" />
       <recent name="C:\Users\marti\Dropbox\KEA - Datamatiker\GitHub\3rd-semester-computer-science\src\MySetImplementation" />
       <recent name="C:\Users\marti\Dropbox\KEA - Datamatiker\GitHub\3rd-semester-computer-science\src\MyArrayListImplementation" />
-      <recent name="C:\Users\marti\Dropbox\KEA - Datamatiker\GitHub\3rd-semester-computer-science\src\CasinoCopenhagen" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -273,13 +312,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UDP_0">
-    <configuration name="TCP_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TCP_Test.TCP_Client" />
+  <component name="RunManager" selected="Application.RunMe (1)">
+    <configuration name="RunMe (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MVC_DAT17C.RunMe" />
       <module name="3rd-semester-computer-science" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="UDP_Test.*" />
+          <option name="PATTERN" value="MVC_DAT17C.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -287,8 +326,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TCP_Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TCP_Test.TCP_Server" />
+    <configuration name="RunMe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="RunMe" />
+      <module name="3rd-semester-computer-science" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TCP_Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TCP_Test.TCP_Client" />
       <module name="3rd-semester-computer-science" />
       <extension name="coverage">
         <pattern>
@@ -326,27 +372,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="maam" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="maam" />
-      <module name="3rd-semester-computer-science" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.maam" />
       <item itemvalue="Application.UDP_1" />
       <item itemvalue="Application.UDP_0" />
-      <item itemvalue="Application.TCP_Server" />
       <item itemvalue="Application.TCP_Client" />
+      <item itemvalue="Application.RunMe" />
+      <item itemvalue="Application.RunMe (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RunMe (1)" />
+        <item itemvalue="Application.RunMe" />
         <item itemvalue="Application.UDP_0" />
         <item itemvalue="Application.UDP_1" />
         <item itemvalue="Application.TCP_Client" />
-        <item itemvalue="Application.TCP_Server" />
-        <item itemvalue="Application.maam" />
       </list>
     </recent_temporary>
   </component>
@@ -373,18 +412,23 @@
       <workItem from="1538217010623" duration="4495000" />
       <workItem from="1538301705463" duration="2125000" />
       <workItem from="1538378018567" duration="821000" />
-      <workItem from="1538395354810" duration="1119000" />
+      <workItem from="1538395354810" duration="1344000" />
+      <workItem from="1538397653295" duration="152000" />
+      <workItem from="1538500462881" duration="1201000" />
+      <workItem from="1538632928932" duration="1104000" />
+      <workItem from="1538805414389" duration="32000" />
+      <workItem from="1540197650673" duration="1778000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57567000" />
+    <option name="totallyTimeSpent" value="62059000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29597315" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31744966" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -396,7 +440,7 @@
       <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info active="true" anchor="bottom" x="33" y="538" width="1484" height="218" id="Run" order="5" visible="true" weight="0.2521994" />
+      <window_info anchor="bottom" x="33" y="538" width="1484" height="218" id="Run" order="5" visible="true" weight="0.41642228" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32844576" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
@@ -416,6 +460,39 @@
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="10" side_tool="true" weight="0.3295302" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31744966" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32925472" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" x="33" y="538" width="1484" height="218" id="Run" order="5" visible="true" weight="0.41642228" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32844576" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32991204" />
+      <window_info anchor="bottom" id="CipherTools" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="10" side_tool="true" weight="0.3295302" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -430,21 +507,6 @@
     </ignored-roots>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/MyArrayListImplementation/RunMyArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MyArrayListImplementation/MyArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" selection-start-column="34" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MyArrayListImplementation/README.md" />
     <entry file="file://$PROJECT_DIR$/src/MyArrayListImplementation/MyList.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -501,13 +563,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise03_09_2018/Course.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-start-column="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Exercise03_09_2018/Populate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -526,13 +581,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Exercise03_09_2018/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="27" selection-start-column="27" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -691,20 +739,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Thread/RunThreads.java">
+    <entry file="file://$PROJECT_DIR$/src/UDP_Test/UDP_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        <state relative-caret-position="243">
+          <caret line="24" column="6" lean-forward="true" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TCP_Test/TCP_Client.java">
+    <entry file="file://$PROJECT_DIR$/src/UDP_Test/UDP_0.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="413">
+          <caret line="31" column="45" selection-start-line="31" selection-start-column="45" selection-end-line="31" selection-end-column="45" />
         </state>
       </provider>
     </entry>
@@ -712,26 +757,97 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
           <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TCP_Test/TCP_Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UDP_Test/UDP_0.java">
+    <entry file="file://$PROJECT_DIR$/src/MVC_DAT17C/controller/StudentController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Thread/RunThreads.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="32" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MVC_DAT17C/model/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+          <folding>
+            <element signature="e#245#246#0" expanded="true" />
+            <element signature="e#294#295#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MVC_DAT17C/model/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="e#187#188#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MVC_DAT17C/model/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise03_09_2018/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Exercise03_09_2018/Course.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-211">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MVC_DAT17C/RunMe.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41">
+          <caret line="4" column="32" lean-forward="true" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MVC_DAT17C/controller/PersonController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UDP_Test/UDP_1.java">
+    <entry file="file://$PROJECT_DIR$/src/MVC_DAT17C/view/PersonView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+        <state relative-caret-position="163">
+          <caret line="23" column="77" selection-start-line="23" selection-start-column="77" selection-end-line="23" selection-end-column="77" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
