@@ -20,8 +20,7 @@ public class UDP_1 {
 			byte[] data = new byte[1024];
 
 			System.out.println("Please type you message: ");
-			//sentence = inFromUser.readLine();
-			sentence = inFromKbd.nextLine();
+			sentence = inFromKbd.nextLine().trim();
 			if (sentence.equals("QUIT")) break;
 			length = sentence.length();
 			data = sentence.getBytes();
@@ -32,7 +31,7 @@ public class UDP_1 {
 
 			DatagramPacket receivePacket = new DatagramPacket(data, data.length);
 			receivingSocket.receive(receivePacket);
-			sentence = new String(receivePacket.getData(), StandardCharsets.UTF_8);
+			sentence = new String(receivePacket.getData(), StandardCharsets.UTF_8).trim();
 			if (sentence.equals("QUIT")) break;
 			System.out.println("FROM SERVER:" + sentence);
 
